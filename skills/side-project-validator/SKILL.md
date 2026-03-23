@@ -1,6 +1,6 @@
 ---
 name: side-project-validator
-description: 副业/独立开发项目验证工具。当用户有了一个副业想法、产品 idea、或者想验证某个方向能不能做时使用。帮助分析需求真伪、竞品情况、市场规模、变现可能和实施难度。适用于副业规划、独立开发、产品验证等场景。附带真实案例库、数据调研脚本。
+description: Side project / side hustle idea validator with real data and case studies. Validates product ideas, market demand, competitors, revenue models, and implementation difficulty. For indie hackers, freelancers, and developers exploring side projects. Includes 50+ case studies, competitor analysis, and market research scripts. (副业验证器 | 副业想法 | 独立开发 | indie hacker | side project validation)
 ---
 
 # 副业 Idea 验证器 v2.0
